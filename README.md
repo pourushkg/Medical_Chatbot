@@ -8,3 +8,8 @@ conda create -n medical_chatbot python=3.8 -y
 conda activate medical_chatbot
 ```
 
+```bash
+pip install -r requirements.txt
+```
+
+
